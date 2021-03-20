@@ -1,0 +1,14 @@
+{
+  "name": "node-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amazon_price_scrapper.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
