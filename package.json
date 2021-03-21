@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "amazon_price_scrapper.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mysql": "^2.18.1",
     "puppeteer": "^8.0.0"
   }
 }
